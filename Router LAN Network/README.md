@@ -1,7 +1,7 @@
 # Cisco Packet Tracer Routing Lab
 A network topology built using two switches, a router, and PCs to practice routing and network fundamentals.
 ## Network Topology
-![Network Topology](router_topology.png)
+![Network Topology](router%topology.png)
 
 ## IP & Gateway (10.0.0.0 Network)
 ![IP & Gateway](Ip%20%26%20Gateway%2010.0.0.1.png)
